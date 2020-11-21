@@ -1,0 +1,52 @@
+.tabcon{
+    float: left;
+    margin-left: 20px;
+}
+.icons{
+    float: left;
+    margin-left: 20px;
+    font-size:60px;
+}
+.left_text{
+    float: left;
+    margin-left: 20px;
+    display: flex;
+    flex-direction: column;
+}
+.bold_text{
+    font-weight: bold;
+    float: left;
+}
+.left_text2{
+    float: left;
+    margin-left: 30px;
+    display: flex;
+    flex-direction: column;
+}
+.content{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width:100%;
+}
+
+    .spaced{
+        width: 40%;
+        height: 60px;
+        float:left;
+        
+    }
+
+    .small_icons{
+        float: left;
+        margin-left:10% ;
+    }
+  @media all and (max-width:700px){
+    .top_text1{
+      margin-top: -50px;
+      margin-left:-30px;
+  }
+  .bold_text1{
+      margin-left:50px;
+  }
+}

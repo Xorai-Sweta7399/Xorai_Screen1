@@ -1,0 +1,26 @@
+.icon{
+    font-size: 30px;
+    font-weight: bold;
+}
+.MakeApp{
+    display: inline;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+.text{
+    float: left;
+    margin-left: 10px;
+    color: grey;
+}
+.right_icons{
+    float:right;
+    margin-right: 10px;
+    justify-content: space-around;
+    width: 20px;
+
+   
+}
+.frsticon{
+    font-size: large;
+    font-weight: bold;
+}
